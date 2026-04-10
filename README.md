@@ -44,7 +44,8 @@ cd plant-disease-detection
 
 ### 2. Create virtual environment & Install dependencies
 * Each service must be installed separately :
-    🔹 1. AI Service setup
+
+  🔹 1. AI Service setup
 ```bash
 cd ai_service
 python -m venv venv
