@@ -87,4 +87,6 @@ web_gateway/     # Django web application
 ## Author
 Aimane Achibane
 
+---
+
 ⭐ If you like this project, consider giving it a star on GitHub!
