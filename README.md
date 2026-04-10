@@ -1,14 +1,9 @@
-# 🌱 Plant Disease Detection System
-
-## 📌 Overview
-
+## 🌱 Plant Disease Detection System
+   📌 Overview
 This project is a **distributed system** for detecting and predicting plant diseases using **deep learning**.
 It allows users to upload plant images and receive predictions, confidence scores, and treatment recommendations.
-
 ---
-
-## 🏗️ Architecture
-
+   🏗️ Architecture
 The system is composed of two main services:
 
 * **Web Gateway (Django)**
