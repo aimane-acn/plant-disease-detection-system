@@ -54,7 +54,7 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-    🔹 2. Web Gateway setup
+  🔹 2. Web Gateway setup
 ```bash
 cd web_gateway
 python -m venv venv
