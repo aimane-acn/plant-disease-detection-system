@@ -1,4 +1,4 @@
-# Plant Disease Detection System
+# 🌱 Plant Disease Detection System
 
 ## Overview
 This project is a distributed system for detecting and predicting plant diseases using deep learning.  
@@ -86,3 +86,5 @@ web_gateway/     # Django web application
 
 ## Author
 Aimane Achibane
+
+⭐ If you like this project, consider giving it a star on GitHub!
